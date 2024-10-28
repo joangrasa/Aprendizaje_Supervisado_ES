@@ -2,12 +2,12 @@
 
 # Herramientas utilizadas:
 
-Pandas
-Matplotlib
-Seaborn
-Regresión logística
-KNN (K-Nearest Neighbors)
-Árboles de decisión
-GridSearch
-Bagging
-Boosting
+- Pandas
+- Matplotlib
+- Seaborn
+- Regresión logística
+- KNN (K-Nearest Neighbors)
+- Árboles de decisión
+- GridSearch
+- Bagging
+- Boosting
