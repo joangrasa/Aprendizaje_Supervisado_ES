@@ -1,12 +1,13 @@
-## Basic supervised learning project using synthetic data.
+## Proyecto básico de aprendizaje supervisado utilizando datos sintéticos.
 
-### Used tools:
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Logistic regresion
-  - KNN
-  - Decision trees
-  - GridSearch
-  - Bagging
-  - Boosting
+# Herramientas utilizadas:
+
+Pandas
+Matplotlib
+Seaborn
+Regresión logística
+KNN (K-Nearest Neighbors)
+Árboles de decisión
+GridSearch
+Bagging
+Boosting
